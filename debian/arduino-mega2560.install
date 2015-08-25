@@ -1,0 +1,2 @@
+src/board.txt boards/Arduino/arduino-mega2560
+src/pins_arduino.h boards/Arduino/arduino-mega2560
